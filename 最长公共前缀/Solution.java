@@ -37,7 +37,7 @@ class Solution {
     }
 }
 
-自己写的答案 效率低。。
+自己写的答案 效率低
 class Solution {
 
     public static String longestCommonPrefix(String[] strs) {
